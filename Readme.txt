@@ -2,7 +2,7 @@
   Azienda Ospedaliera Casamenti
 *********************************/
 	Progetto programmazione
-	di Resti 2020/2021
+	di Reti 2020/2021
 
 Gianmaria casamenti
 0000925151
