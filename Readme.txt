@@ -5,7 +5,6 @@
 	di Reti 2020/2021
 
 Gianmaria casamenti
-0000925151
 gianmaria.casamenti@studio.unibo.it 
 
 /********************************
